@@ -1,11 +1,12 @@
-### Hi! My name is Radhika! 👋
+### Hello, I'm Radhika! 👋
 
-📝 I am a data journalist.
+📊 As a passionate data journalist, I specialize in weaving narratives through numbers.
 
-💡 I’m interested in business, finance, and the economy. And DATA!
+💼 My interests lie at the intersection of business, finance, and the economy, with a keen focus on how data underpins these fields.
 
-🌱 I’m currently learning python, pandas, scraping, R, HTML, JavaScript and other coding tools for journalistic data analysis!
+👩‍💻 Currently, I'm on a journey of continuous learning, sharpening my skills in Python, pandas, web scraping, R, HTML, JavaScript, and various other tools essential for cutting-edge journalistic data analysis.
 
-🌻 This GitHub is a combination of school projects and other things I find interesting!
+🌟 This GitHub repository showcases a blend of my academic projects and personal explorations, each reflecting my commitment to uncovering stories hidden within data.
 
-        
+Welcome to my world of data-driven storytelling!
+
